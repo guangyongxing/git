@@ -22,3 +22,4 @@ master add 'no -ff'
 dev commit -no-ff
 >>>>>>> dev
 add
+Git is a free software
