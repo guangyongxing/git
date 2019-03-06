@@ -16,4 +16,9 @@ Creating a new branch is quick AND simple.
 >>>>>>> feature1
 Creating a new branch is quick and simple.
 len git -off
+<<<<<<< HEAD
 master add 'no -ff'
+=======
+dev commit -no-ff
+>>>>>>> dev
+add
